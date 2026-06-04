@@ -1,6 +1,6 @@
 <!-- Profil en-tête stylisé -->
 <div align="center">
- 💻 Je suis Metal54400 devellopeur sa fait 8 ans que Je dev 💻
+ 💻 Je suis Metal54400 devellopeur depuis déjà 8 ans que Je dev 💻
 </div>
 
 ---
