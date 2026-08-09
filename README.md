@@ -25,10 +25,10 @@
 
 ### 📊 GitHub Stats
 
-<!--<div align="center">
+<div align="center">
   <img alt="Luuxis GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=metal54400&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
   <img alt="Luuxis GitHub Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metal54400&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
-</div>-->
+</div>
 
 ---
 
